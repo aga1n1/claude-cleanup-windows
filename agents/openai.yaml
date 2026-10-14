@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Windows Cleanup"
+  short_description: "安全审计 Claude 缓存和日志，完整备份后隔离，保留会话、配置和登录态"
+  default_prompt: "使用 $claude-cleanup-windows 审计我的 Claude 缓存和日志，并展示可清理清单。"

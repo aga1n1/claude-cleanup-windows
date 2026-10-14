@@ -1,0 +1,15 @@
+# Local state must stay outside the repository. Extra guards prevent accidental commits.
+/work/
+/state/
+/backup/
+/quarantine/
+/ClaudeCleanup/
+plan.json
+result.json
+manifest.json
+claude-cleanup-plan.json
+claude-cleanup-result.json
+.claude-cleanup-state
+*.partial
+*.zip
+/tests/.fixtures-*/
