@@ -1,6 +1,6 @@
 # Claude Cleanup for Windows
 
-用于 Codex 的 Windows skill：审计 Claude Code / Claude Desktop 的可再生缓存与日志，先完整备份，再移入可恢复的私有隔离目录。
+用于 Windows 的 skill：审计 Claude Code / Claude Desktop 的可再生缓存与日志，先完整备份，再移入可恢复的私有隔离目录。
 
 ## 行为
 
